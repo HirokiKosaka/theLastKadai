@@ -1,5 +1,5 @@
 The Last Kadai
-〜Djangoの道は長い〜
+〜Django習得の道は長い〜
 
 ## 紹介と使い方
 
